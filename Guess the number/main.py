@@ -1,5 +1,5 @@
-''' Guess the number game in which the user need to guess a number over the compurter 
-    random number generator. If player guess is higher than the actual number then display
+''' Guess the number game in which the user need to guess a number over the  
+    random number generator of computer. If player guess is higher than the actual number then display
     "Enter a lower number", if number guess it lower than display "Enter the higher number".When
     user guesses the right number show the number of guesses of user.'''
 
